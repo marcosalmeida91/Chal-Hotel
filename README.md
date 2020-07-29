@@ -1,2 +1,2 @@
 # ChaleHotel
-Página teste de conhecimentos projeto Chalé Hotel
+Página teste projeto Chalé Hotel
